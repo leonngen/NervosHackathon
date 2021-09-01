@@ -12,6 +12,7 @@ Project Link: https://github.com/leonngen/SupplyChain-Nervos
 Tx hash: 0x77881daf24ef316efe4475ab9d0b3b4cdfe05fd483d14f79a2b59937203ad420
 
 Deployed Contract: 0xFe0be4765FaafF67F07ca87c4D059A7EEBF25744
+
 ABI:
 
 ~~~
